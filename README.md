@@ -1,1 +1,1 @@
-https://prashed.github.io/webpackproject/
+https://prashed.github.io/Webpack/
